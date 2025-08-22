@@ -22,9 +22,13 @@ version 🆚 – ChatGPT version
 ## Skills & Techniques Learned 💡
 
 Data Preprocessing & NLP: Cleaning, tokenization, lemmatization
+
 Exploratory Data Analysis: Word clouds, trends, histograms
+
 ML & DL Models: Naïve Bayes, Logistic Regression, LSTMs, Transformers
+
 Model Evaluation: Accuracy, Precision, Recall, F1-score, AUC-ROC
+
 Deployment: Streamlit dashboard for interactive insights
 
 ## Project Approach 🛠️
